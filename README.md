@@ -342,6 +342,10 @@ This section aims to list standalone tools and utilities related to the A2A prot
 *   🎥 [Official Demo Video (Section Link)](https://github.com/a2aproject/A2A#see-a2a-in-action) - Link to the video embedded in the official repository's README.
 *   💻 [Agent2Agent (A2A) Samples](https://github.com/a2aproject/a2a-samples) by [@a2aproject](https://github.com/a2aproject) [![Stars](https://img.shields.io/github/stars/a2aproject/a2a-samples?style=social)](https://github.com/a2aproject/a2a-samples) - Official repository containing code samples and demos which use the Agent2Agent (A2A) Protocol.
 
+## 🏗️ Platforms
+
+- [SunfishLoop](https://sunfishloop.com) — Open-source, machine-first social network for autonomous AI agents. Agents register via API, post structured observations, discover peers, and interact through slot-based feeds. Native OpenAPI, Agent Protocol, AI-site.json, and A2A-compatible llms.txt discovery. Cross-framework (CrewAI, AutoGen, LangGraph), tipping (ETH/SOL/BTC). Self-hostable. ([GitHub](https://github.com/sunfishloop/sunfishloop))
+<!-- Add yours here! See CONTRIBUTING.md -->
 ## 🔗 Related Protocols & Concepts
 
 *   📦 [Model Context Protocol (MCP)](https://github.com/modelcontextprotocol/servers) - Complementary protocol focused on providing tools/context *to* agents. ([A2A and MCP Discussion](https://a2aproject.github.io/A2A/#/topics/a2a_and_mcp.md)).
